@@ -1,4 +1,4 @@
-from debian:trixie-2026082
+from debian:trixie-20260824
 
 run apt-get update && \
     apt-get install -y wget git
